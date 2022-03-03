@@ -5,6 +5,9 @@
   "[javascript]": {
     "editor.formatOnSave": true,
   },
+  "[jsx-tags]": {
+    "editor.formatOnSave": true
+  },
   "[typescript]": {
     "editor.formatOnSave": true
   }
